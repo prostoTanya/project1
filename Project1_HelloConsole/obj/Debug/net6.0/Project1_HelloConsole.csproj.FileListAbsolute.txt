@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\bin\Debug\net6.0\Project1_HelloConsole.exe
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\bin\Debug\net6.0\Project1_HelloConsole.deps.json
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\bin\Debug\net6.0\Project1_HelloConsole.runtimeconfig.json
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\bin\Debug\net6.0\Project1_HelloConsole.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\bin\Debug\net6.0\Project1_HelloConsole.pdb
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.AssemblyInfo.cs
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\refint\Project1_HelloConsole.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.pdb
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\Project1_HelloConsole.genruntimeconfig.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\Project1_HelloConsole\obj\Debug\net6.0\ref\Project1_HelloConsole.dll
