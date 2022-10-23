@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\bin\Debug\net6.0\Project3_Sum.exe
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\bin\Debug\net6.0\Project3_Sum.deps.json
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\bin\Debug\net6.0\Project3_Sum.runtimeconfig.json
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\bin\Debug\net6.0\Project3_Sum.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\bin\Debug\net6.0\Project3_Sum.pdb
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.AssemblyInfo.cs
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\refint\Project3_Sum.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.pdb
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\Project3_Sum.genruntimeconfig.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project3_Sum\obj\Debug\net6.0\ref\Project3_Sum.dll
