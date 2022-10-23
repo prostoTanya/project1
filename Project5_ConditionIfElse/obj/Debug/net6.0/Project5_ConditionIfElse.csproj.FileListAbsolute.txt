@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.AssemblyInfo.cs
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\bin\Debug\net6.0\Project5_ConditionIfElse.exe
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\bin\Debug\net6.0\Project5_ConditionIfElse.deps.json
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\bin\Debug\net6.0\Project5_ConditionIfElse.runtimeconfig.json
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\bin\Debug\net6.0\Project5_ConditionIfElse.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\bin\Debug\net6.0\Project5_ConditionIfElse.pdb
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\refint\Project5_ConditionIfElse.dll
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.pdb
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\Project5_ConditionIfElse.genruntimeconfig.cache
+C:\Users\admin\Desktop\Geek Brains\Лекции по Знакомству с языками программирования\Lesson1\project1\Project5_ConditionIfElse\obj\Debug\net6.0\ref\Project5_ConditionIfElse.dll
